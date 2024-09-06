@@ -3,7 +3,7 @@ const addEmployeesBtn = document.querySelector('#add-employees-btn');
 
 // Collect employee data
 const collectEmployees = function() {
-  //  const employees = [];
+  const employees = [];
   let addMore = true;
 
   while (addMore) {
