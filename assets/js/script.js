@@ -9,7 +9,7 @@ const collectEmployees = function() {
   while (addMore) {
     const firstName = prompt("Enter employee's first name:");
     const lastName = prompt("Enter employee's last name:");
-    let salary = prompt("Enter employee's salary:");
+    let salary = prompt("Enter employee's salary without $ or ,:");
 
     // Ensures salary is a valid number
     salary = parseFloat(salary);

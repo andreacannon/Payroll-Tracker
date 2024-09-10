@@ -22,8 +22,9 @@ The Employee Payroll Tracker is a web application that allows users to input emp
 
 The following image shows the web application's appearance and functionality:
 ![Shows employee information displayed plus a random employee selected and displayed in the console of an employee payroll tracker.]
-![Webpage Screenshot](Develop/screenshot.png)
+![Webpage Screenshot](assets/screenshot.png)
 
-Deployed site:  https://andreacannon.github.io/Payroll-Tracker/
+## Deployed site:
+  https://andreacannon.github.io/Payroll-Tracker/
 
 
