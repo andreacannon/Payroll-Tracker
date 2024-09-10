@@ -71,7 +71,7 @@ td{
 }
 
 tbody tr:nth-child(even) {
-  background-color: hsl(223, 64%, 90%);
+  background-color: #d5def6;
 }
 
 .card-footer {
@@ -93,6 +93,7 @@ tbody tr:nth-child(even) {
 }
 
 .btn {
+  border-radius: 12px;
   border: none;
   background-color: #f7f8fb;
   box-shadow: #0000001a 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
@@ -105,6 +106,10 @@ tbody tr:nth-child(even) {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+}
+
+button:hover {
+  background-color: #ece6f7; /* Darker color on hover */
 }
 
 button[disabled] {
